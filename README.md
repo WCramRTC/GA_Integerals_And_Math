@@ -238,4 +238,3 @@ Console.WriteLine($"Equation 2 Result: {equation2}");
 | **Submission** | Proper GitHub upload and submission. | 5 |
 | **Total** |  | 100 |
 
-In this revised rubric, points have been reallocated to emphasize the importance of understanding integral types, basic and complex mathematical operations, code testing, validation, and readability. The sections on Numeric Overflows and Additional Equations have been removed, and their points have been distributed among the remaining categories to maintain a total of 100 points.
