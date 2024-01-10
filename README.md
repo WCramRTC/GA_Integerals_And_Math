@@ -1,4 +1,4 @@
-# Expanded Tutorial: Integral Types and Math Operations in C#
+# Guided Assignment: Integral Types and Math Operations in C#
 
 ## Introduction
 Integral types in C# are data types used to represent whole numbers, both positive and negative, without any fractional or decimal parts. These types are used for a wide range of purposes in programming, such as counting, indexing, and performing various mathematical calculations where decimal precision is not required. Integral types are essential for working with integer values efficiently.
